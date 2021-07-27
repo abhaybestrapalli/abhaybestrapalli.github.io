@@ -19,9 +19,9 @@ body{
     z-index: 2;
 }
 
-.nav ul{ float: right;list-style-type:none; padding:0}
+.nav ul{ list-style-type:none; padding:0}
 .nav ul li{ 
-    float:right;
+    
     text-align: right; 
     margin:0px 5px; 
     background:white; 
