@@ -22,7 +22,7 @@ body{
 .nav ul{ list-style-type:none; padding:0}
 .nav ul li{ 
     
-    text-align: right; 
+    float: right; 
     margin:0px 5px; 
-    background-color: black; 
+    
 }
